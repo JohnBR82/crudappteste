@@ -1,7 +1,7 @@
 <h1 align="center"> Crud React </h1>
 
 
- ## <img  alt="1" height="30" width="40" src="https://icongr.am/clarity/check.svg?size=148&color=00b81f"> Este Projeto foi desenvolvido em Vue.js.
+ ## <img  alt="1" height="30" width="40" src="https://icongr.am/clarity/check.svg?size=148&color=00b81f"> Este Projeto foi desenvolvido em React.
 
 <h3> Foi um Crud Simples, sendo sincero tive problemas para o Crud meu que seria com Laravel e Vue</h3>
 
